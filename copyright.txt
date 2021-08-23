@@ -1,0 +1,117 @@
+------------------------------------
+NaturaLife by RT-THEMES
+http://themeforest.net/user/stmcan
+
+Theme designed and html, js, css, php files coded by RT-Themes
+http://rtthemes.com
+-------------------------------------
+
+
+------------------------------------------------------------------------
+PREMIUM PLUGINS (Included commercial items with a special license)
+-------------------------------------------------------------------------
+- Isotope jQuery plugin - http://isotope.metafizzy.co/
+- SliderRevolution WordPress plugin - http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380   
+- jQuery lightgallery - http://sachinchoolur.github.io/lightGallery/
+
+
+------------------------------------
+PREMIUM ICON SETS (extended license)
+-------------------------------------
+- Food 800+ Line Icons Bundle - https://creativemarket.com/Voysla/1502335-Food-800-Line-Icons-Bundle - by Voysla's Shop 
+
+
+------------------------------------
+IMAGES AND ICONS 
+-------------------------------------
+- Font Icons by http://fontello.com/
+- Feather Icons by Cole Bemis colebemis.com
+- Flag images by http://flagpedia.net
+- Linea Icons by http://linea.io/
+ 
+------------------------------------
+PLUGINS & SCRIPTS
+-------------------------------------
+jQuery http://jquery.com
+jQuery Flickr by Joel Sutherland http://www.newmediacampaigns.com/page/jquery-flickr-plugin
+jQuery customSelect by Adam Coulombe - http://adam.co/lab/jquery/customselect/
+jQuery OwlCarousel by Bartosz Wojciechowski - http://www.owlgraphic.com/owlcarousel
+imagesLoaded by David DeSandro https://github.com/desandro/imagesloaded
+waitForImages Copyright (c) 2017 Alex Dickson https://github.com/alexanderdickson/waitForImages
+Bootstrap by Twitter Inc. http://getbootstrap.com/ 
+Modernizr http://www.modernizr.com/
+Waypoints Copyright by Caleb Troughton https://github.com/imakewebthings/jquery-waypoints 
+The Final Countdown  Copyright (c) 2016 Edson Hilios for jQuery v2.2.0 (http://hilios.github.io/jQuery.countdown/)
+jQuery.appear Copyright (c) 2012-2014 Alexander Brovikov ( https://github.com/bas2k/jquery.appear/ )
+Easy pie chart @author Robert Fleischmann <rendro87@gmail.com> (http://robert-fleischmann.de)
+NaturaLife Scripts by RT-Themes
+
+
+------------------------------------
+CSS
+-------------------------------------
+style.css, rtl.css by RT-Themes
+bootsrap.css - by Twitter Inc. http://getbootstrap.com/
+owl-carousel.css -by Bartosz Wojciechowski - http://www.owlgraphic.com/owlcarousel
+fontello.css by http://fontello.com/
+
+
+------------------------------------
+IMAGES AND ASSETS 
+USED FOR ONLY THE THEME DEMO 
+( NOT INCLUDED TO THE PACKAGE )
+-------------------------------------
+Free Files:
+Floral background  - http://gofreedownload.net/free-vector/vector-background/classical-pattern-background-vector-76376/#.WcsIJ9MjHUI
+Photo by Wesual Click on Unsplash https://unsplash.com/photos/eXdKs9d37Sc
+Photo by Jessica Ruscello on Unsplash https://unsplash.com/photos/DoSDQvzjeH0
+Photo by Brooke Lark on Unsplash https://unsplash.com/photos/1Rm9GLHV0UA
+
+
+Licensed Images:
+http://depositphotos.com/73170457			Smiling parents and two little girls at new home @ Syda_Productions
+http://depositphotos.com/118613810			Bottles with organic essential aroma oils @ billiondigital 
+http://depositphotos.com/152251612			Ingredients for homemade cosmetics @ VikaKhalabuzar
+http://depositphotos.com/152243592			Honey soap with orchids and oil @ VikaKhalabuzar
+http://depositphotos.com/10678254			Spa natural Products @ Subbotina
+http://depositphotos.com/141133262			Fresh ripe tomatoes @ IgorTishenko 
+http://depositphotos.com/163789746			Woman in massage salon @ DmitryPoch
+http://depositphotos.com/4593578			Woman meditating @ Deklofenak
+http://depositphotos.com/5046903			Flowers and butterflies @ kjpargeter
+http://depositphotos.com/1700245			Mountain lake @ muha04
+http://depositphotos.com/6043414			Bulb with a tree @ SergeyNivens
+http://depositphotos.com/56349073			Spa setting on table on light background @ belchonock
+http://depositphotos.com/59733845			Spa setting treatment @ belchonock
+http://depositphotos.com/24020119			Soap and orange @ Denira
+http://depositphotos.com/23424718			Set of spa with orange @ Denira
+http://depositphotos.com/23551021			Soap orange @ Denira
+http://depositphotos.com/14377663			Natural handmade soap with fragrant herbs, @ Madllen
+http://depositphotos.com/141133612			Tomatoes and cutting board @ IgorTishenko
+http://depositphotos.com/152252514			Homemade soap with dried lavender @ VikaKhalabuzar
+http://depositphotos.com/10573859			Handmade Soap. Spa product @ vitcom
+http://depositphotos.com/61210173			Branches of rosemary and sea salt @ belchonock
+http://depositphotos.com/5986165			Bottles of spa oil and salt @ Violin
+http://depositphotos.com/6329464			Spa green salt @ alexmisu
+http://depositphotos.com/3152044			Jug with and a beautiful white flower @ yellek
+http://depositphotos.com/50695901			Macro leaves background @ valentinar
+http://depositphotos.com/141464050			Woman with green leaf @ VikaOvcharenko
+http://depositphotos.com/11627530			Keeping a diet @ pressmaster
+http://depositphotos.com/10680155			Spa Treatments Isolated On White @ Subbotina
+http://depositphotos.com/4236865			Woman with white tulip on a perfect legs @ valuavitaly
+http://depositphotos.com/1774909			Cosmetic products @ alkir_dep
+http://depositphotos.com/3389998			Green candles and daisies near water reflection @ Sandralise
+http://depositphotos.com/10379780			Young plant in ground isolated on white @ belchonock
+http://depositphotos.com/5576793			Zen stones with orchids flower isolated. spa background @ irabel8
+http://depositphotos.com/13898430			Beautiful young woman with salad, isolated on white @ belchonock
+http://depositphotos.com/41312291			Woman carrying bag of vegetables @ ikostudio
+http://depositphotos.com/79000304			Girls Spending time in cafe @ gpointstudio
+http://depositphotos.com/134100552			Woman doing Ashtanga Vinyasa Yoga asana Urdhva Dhanurasana - up @ DmitryRukhlenko
+http://depositphotos.com/15742931			Brunette drinking a glass of water outdoors @ photography33
+http://depositphotos.com/139002888			Hipster bicycle with flower basket @ NatashaFedorova
+http://depositphotos.com/90498832			Healthy Food. Woman Cutting Vegetables. Salad, Food Preparation. Eating, Diet. @ puhhha
+http://depositphotos.com/12017259			Eating healthy food @ choreograph
+http://depositphotos.com/154231656			Woman drinking water @ DmitryPoch
+http://depositphotos.com/141461956			Young woman with apple @ VikaOvcharenko
+http://depositphotos.com/141418702			Woman with flowers in hair @ DmitryPoch
+http://depositphotos.com/59733895			Spa setting treatment @ belchonock
+http://depositphotos.com/1303981			Ripe Avocado With Green Leaf Isolated on @ alphacell

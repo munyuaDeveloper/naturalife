@@ -1,0 +1,1 @@
+Please check WordPress Admin -> Natura Life -> Demo Import to easily import one of the demos. You can also use these files for manual import. For further details you can check http://docs.rtthemes.com/business-lounge-documentation

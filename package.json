@@ -1,0 +1,23 @@
+{
+  "name": "naturalife",
+  "version": "1.0.0",
+  "description": "naturalife",
+  "main": "Gruntfile.js",
+  "author": "RT-Themes",
+  "dependencies": {
+    "grunt-cli": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-cssc": "*",
+    "matchdep": "*",
+    "grunt-contrib-compass": "latest",
+    "grunt-compass-multiple": "*",
+    "grunt-contrib-clean": "*"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.1",
+    "grunt-postcss": "^0.9.0"
+  }
+}
